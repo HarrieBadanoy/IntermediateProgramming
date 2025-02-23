@@ -7,7 +7,7 @@ This is my activity in Intermediate Programming.
 - Computes BMI 
 - Calculates kinetic energy  
 - Simple attack speed calculator
-- FruitName&Count
+- Fruit Name and Count
 
 
 
